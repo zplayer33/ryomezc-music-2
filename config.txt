@@ -1,0 +1,6 @@
+owner=540649878771073045
+prefix=2
+game= '2play © by hazemplay','2help'
+stayinchannel=true
+songinstatus=false
+token=NTkxMDQyNDgwODI1MzAzMDUw.XQrBWw.RvmUKvli5A6oscZzKStjJhpwtAU
